@@ -113,7 +113,8 @@ def manage_project(project_details):
     return result_dict
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "http://localhost:5173"}})
+
 
 @app.route('/manage-project', methods=['POST'])
 def manage_project_endpoint():
