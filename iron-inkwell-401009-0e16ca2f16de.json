@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iron-inkwell-401009",
+  "private_key_id": "0e16ca2f16de48fae9475737ed014e48d71a8438",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHE1caPOBc4DRw\nNimr2yyU636bF/ZFb7OIni/GFpxotozxh/RzUlLvxoWP1KJcoAjVx87SL+5o1BHg\ntllag0AFDyuqwT6UoUDec7tI+7e5NrwfqGGcJ5JzRnfod+E7U+5OhhDd1U1u6144\nGVT8JFCDom7K3ble6+4TELOrzXqaI9ltXDP29fkQbYRWNyxcElqWeYNH6EFI7vH+\noRgQHhtMNKSluM/gnqq1cy+cf02SnnZ2euUZrSTDT2b91e8SmulUMyVJlsT7jUyj\no40N4Bkq/UiJqjqAIUGxJRfRb9C4wBZ7JB5pxclBV4RXOXsg8uTMoihGX5qygqt3\nvlPVLItFAgMBAAECggEAJogyysxPrQpke/ev1yjEF0sBpWlc7JGzUVU08AV+XrI+\n0506Dnw3u1tUjMNebck4DJDxEjPe1IF/uFvzLZbL9G68R//BailQEf6amITISdwz\nS3le80ehjBhuqxtRCBe1v5MpfpaDt11tTjRxA6DPyLrO8Qs7jwjheuU3saBDA8Rn\nLXREXKofC4+0/AjBSF4w/cJgIMFjZT7GxPBT2RaD9VYBIabAw6pEft1MRdLBNyTS\nfcW74gM8Ma1h3jSaKxFPLw9BuxV3VpsprqG+YvzjeGi5dmlPz61bE8Erb5T3gyuz\nsyfPoLoOrPkIrDhXpbC4TVXUYbhWozqkViwF4vnwYQKBgQDnTCF8Jpd8fYnZqzto\n4nQAgRfS+hzenbrL1VpMczefnuTPI/x5ZfDX1T84NEVL1uoBzOgW/+nYf47JjL3x\nudqQC/0ZoEcb+yk61faVC10bQd9WbuM6c8bNY6h0hP83k2SIeYUqg8z/zggzMO/a\nAR2UkX5bIGeMFXe6M7ymkGdknQKBgQDcVjyZPZnOLFph4Q3wx5bwJx0TEZAhSef2\n3KqTevKxHsB03Yr3RoejL0cOIPxpoPGXn+btggRmDuLKiP/DtyuL/YLcIKOqnVS0\nq7ja7xd6CjXc+NZAtZxUwc6XIl+0XiS+r8FTbQLo6ZkwETfP3RYTTXEPp6O7eaOa\nSbXqPIT8yQKBgFqM4nsRPLMfDq2prKuGJDXiVCpjgpPgmjWchCpz3O3freIuS3RX\nZW+J66McS5jCPYCQ8Le4XptEbOkY8W/F+/vyxZaXud8Jd/2xsERvW3cFVeMnrEvA\n8a6M+nELdEMUsAIB2RFo4gOvbGRmHzBwyVzVjOsuB3u/F81M3ekzlVa9AoGAbc90\nyBKRUtV7/ggBwJxYNzvnG5fHMy/4MWnsgS/nQCrJU/UNywsVklh/myUJZ0NU5HJG\nztvbgVmt4a7BeTMSuuQPkdGaf++FRb3HlSVPl/z6tzQ0428fiIZGhcAV3niE65wA\nR6mup5G0TOZn4GqZE+mmjVzJFygaR0yxIxoiVTECgYBsfhwJV4pEkw0bDLQq0bJX\nHSuVkKEio3zRv7MTL45EWJE/toTh0/Y0Db9ZPJJplHYxMywFMt+GXzVV+jTK99Sc\nUVOjqG+q+Ui111yMccq9hqXpQdC/2lMPID+DvLEyUxZukHe44h2mjPbxi4DoWskc\n7jZJ5q2wGpwSbgH2I9V1Aw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "assistantagent@iron-inkwell-401009.iam.gserviceaccount.com",
+  "client_id": "116080007663518732151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assistantagent%40iron-inkwell-401009.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
