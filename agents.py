@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timedelta, time
 import pytz
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 
 
 # Google API Credentials
 SCOPES = ['https://www.googleapis.com/auth/calendar']
